@@ -1,0 +1,51 @@
+body{
+    font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+    background-image: url("images/prism.png");
+    font-size: 16px;
+    margin: auto;
+    vertical-align: middle;
+    color: silver;
+}
+
+.col-xs-8 {
+    float: left;
+    border: 1px solid black;
+    text-align: auto;
+    margin-top: 75px;    
+}
+
+.col-xs-2 {
+    float: left;
+}
+
+.myphoto {
+    float:left;
+    border: 2px solid #000000;
+    margin-right: 15px; margin-bottom: 15px;
+}
+
+.projectcolumn1{
+    float: left;
+}
+
+.projectcolumn2 {
+    float: left;
+}
+
+footer {
+    clear: both; overflow: auto;
+    position: fixed;
+    left: 0; right: 0; bottom: 0;
+    border-top: 5px solid #000000;
+    background-color: white;
+    margin-top: auto;
+    color: #666666;
+}
+
+footer p {
+    text-align: center;
+    font-size: 14px;
+    border-top: 8px;
+    padding-top: 18px;
+}
+
